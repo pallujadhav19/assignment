@@ -1,1 +1,1 @@
-print("wrong password")
+print("Invalid credentials. Please try again.")
